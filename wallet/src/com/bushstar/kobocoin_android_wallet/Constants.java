@@ -90,8 +90,8 @@ public class Constants
 	public static final String REPORT_SUBJECT_CRASH = "Crash report";
 
 	public static final String LICENSE_URL = "http://www.gnu.org/licenses/gpl-3.0.txt";
-	public static final String SOURCE_URL = "https://github.com/kobocoin/kobocoin-wallet";
-	public static final String BINARY_URL = "https://github.com/kobocoin/kobocoin-wallet/releases";
+	public static final String SOURCE_URL = "https://github.com/kobocoin/kobocoin-android-wallet";
+	public static final String BINARY_URL = "https://github.com/kobocoin/kobocoin-android-wallet/releases";
 	public static final String CREDITS_KOBOCOINJ_URL = "https://github.com/kobocoin/kobocoinj";
 	public static final String CREDITS_ZXING_URL = "https://github.com/zxing/zxing";
 	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/#!/kobocoindev";
