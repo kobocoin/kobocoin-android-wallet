@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>KOBO, 8 décimales</item>
+		<item>mKOBO, 2 décimales</item>
+		<item>µKOBO, 0 décimale</item>
+	</string-array>
+
+</resources>
